@@ -17,7 +17,7 @@ library(RMySQL, quietly=TRUE)
 # Database connection details
 db_user <- 'admin' 
 db_password <- 'rishipat'
-db_host <- 'database-practicum.cxs2as4i0fow.us-east-2.rds.amazonaws.com'
+db_host <- '*.us-east-2.rds.amazonaws.com'
 db_name <- 'database_practicum'
 db_port <- 3306
 
