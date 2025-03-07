@@ -49,4 +49,5 @@ The project includes visualizations of wildlife strikes over time, showing the i
 Rishi Patel  
 Northeastern University  
 Email: patel.rishi3@northeastern.edu  
-Summer Full 2024
+
+This project was completed as part of the course Database Design and Management (CS5200) at Northeastern University.
